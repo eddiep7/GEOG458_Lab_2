@@ -20,7 +20,7 @@ Since words such as Digital and Online are pretty interchangeable in how people 
 
 ## v. How your research could be improved in the future
 
-Since the three search terms were very broad and not very specific, to enhance the research on finding similarities and differences, I could be more specific about the aspects of digital privacy or online protection I'm interested in examining.
+Since the three search terms were very broad and not very specific, to enhance the research, I could have been more specific (whether its a particular applciation, situation, place, etc.) about the aspects of digital privacy or online protection that I'm interested in examining.
 
 ## vi. Anything you find from the map or data that is different from your expectation before the exercise, or anything that stands out to you
 
