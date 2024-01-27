@@ -25,3 +25,18 @@ Since the three search terms were very broad and not very specific, to enhance t
 ## vi. Anything you find from the map or data that is different from your expectation before the exercise, or anything that stands out to you
 
 This lab has highlighted the importance of carefully selecting search terms when exploring a topic. While there were notable overlaps, each cloud also featured distinctive words, establishing connections between our search queries and the results obtained. I am interested in seeing whether other search algorithms are similar or different across various websites and search engines, beyond just YouTube. Considering the potential impact of search content and the suggestion from the lab to incorporate location-specific terms, there could be a lot more to discover, both in terms of internal aspects and outcomes.
+
+# Word Cloud 1
+![Image 1 for my first word cloud](//main/img/Digital%20Privacy.png)
+
+**CSV File:** [Digital_Privacy.csv](/assets/Digital_Privacy.csv)
+
+# Word Cloud 2
+![Image 2 for my second word cloud](//main/img/Online%20Protection.png)
+
+**CSV File:** [Online_Protection.csv](/assets/Online_Protection.csv)
+
+# Word Cloud 3
+![Image 3 for my third word cloud](//main/img/Digital%20Security.png)
+
+**CSV File:** [Digital_Security.csv](/assets/Digitial_Security.csv)
